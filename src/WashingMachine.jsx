@@ -110,7 +110,7 @@ const WashingRepairSG = () => {
             {/* Logo */}
             <div className="flex items-center space-x-3">
               <div className="bg-blue-600 p-1 rounded-lg">
-                <img src="/public/logo.webp" alt="" className='w-12'/>
+                <img src="/logo.webp" alt="" className='w-12'/>
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-blue-600">WashingRepair SG</h1>
